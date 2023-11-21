@@ -29,4 +29,4 @@ video data includes Dynamic Blur, Blocking Artifact; image data includes Abnorma
 according to the Collection content, the collecting accuracy is over 97%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
